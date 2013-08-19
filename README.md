@@ -39,7 +39,5 @@ Directions
 
 Notes
 -----
-Uses s3fs version 1.61.  Version 1.63 did not allow for non-root write permissions.  In the typical application, the apache user needs to be able to write files (like images) to the S3 bucket.
-
-Tested with the "32bit Amazon Linux running PHP 5.3" AMI.
+Tested with the "64bit Amazon Linux running PHP 5.4" AMI.
 
