@@ -1,1 +1,4 @@
-.elasticbeanstalk/
+.settings
+.project
+
+.elasticbeanstalk
